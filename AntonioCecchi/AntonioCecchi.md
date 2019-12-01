@@ -2,4 +2,4 @@
 
 ##Game Designer 
 
-![foto]([Foto.jpeg)
+![foto](Foto.jpeg)
