@@ -6,4 +6,4 @@
 |<img src="AntonioCecchi/Foto.jpeg" height="200"/> | Antonio Cecchi  | Game Design | [AntonioCecchi](https://github.com/AntonioCecchi)
 |<img src="CorsiRiccardo/CorsiRiccardo.jpg" height="200"/> | Riccardo Corsi  | Programming | [CorsiRiccardo](https://github.com/CorsiRiccardo)
 |<img src="Andrea Agostini/AndreaAgostini.jpg" height="200"/> | Andrea Agostini  | Programming | [Ago251](https://github.com/Ago251)
-
+|<img src="KirillScalirò/ks.jpg" height="200"/> | Kirill Scalirò  | Concept Art | [hariseldon06](https://github.com/hariseldon06)
