@@ -11,3 +11,5 @@
 |<img src="Pierfrancesco%20Catalano/Foto.jpg" height="200"/> | Piefrancesco Catalano | Game Design |  | [github.com/PierfrancescoCatalano](https://github.com/PierfrancescoCatalano)<br>[pierfrancescocatalano.github.io](https://pierfrancescocatalano.github.io)
 |<img src="InnocentiJacopo/InnocentiJacopo.jpg" height="200"/> | Jacopo Innocenti | Programming | 3 | [github.com/InnoLeggenda](https://github.com/InnoLeggenda)
 |<img src="Francesco%20Visco/Foto.jpg" height="200"/> | Francesco Visco | Game Design | 4 | [github.com/FrancescoVisco](https://github.com/FrancescoVisco)<br>[francescovisco.github.io](https://francescovisco.github.io/)
+|<img src="Tommaso%20Cattani/TommasoCattani.jpg" height="200"/> | Tommaso Cattani | Game Design | 1 | [github.com/swingecko](https://github.com/swingecko)
+
