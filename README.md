@@ -9,3 +9,4 @@
 |<img src="KirillScalirò/photoks.jpg" height="200"/> | Kirill Scalirò | Concept Art | 2 | [github.com/hariseldon06](https://github.com/hariseldon06)
 |<img src="Andrea%20Sala/AndreaSala.jpg" height="200"/> | Andrea Sala | Game Design |  | [github.com/SalaAndrea](https://github.com/SalaAndrea)<br>[salaandrea.github.io](https://salaandrea.github.io/)
 |<img src="Pierfrancesco%20Catalano/Foto.jpg" height="200"/> | Piefrancesco Catalano | Game Design |  | [github.com/PierfrancescoCatalano](https://github.com/PierfrancescoCatalano)<br>[pierfrancescocatalano.github.io](https://pierfrancescocatalano.github.io)
+|<img src="InnocentiJacopo/InnocentiJacopo.jpg" height="200"/> | Jacopo Innocenti | Programming | 3 | [github.com/InnoLeggenda](https://github.com/InnoLeggenda)
