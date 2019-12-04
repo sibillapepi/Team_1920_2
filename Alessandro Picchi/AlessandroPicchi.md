@@ -1,2 +1,4 @@
 # Alessandro Picchi
-Game Designer
+Game Design
+
+![](AlessandroPicchi/AlessandroPicchi.jpg)
