@@ -12,4 +12,5 @@
 |<img src="InnocentiJacopo/InnocentiJacopo.jpg" height="200"/> | Jacopo Innocenti | Programming | 3 | [github.com/InnoLeggenda](https://github.com/InnoLeggenda)
 |<img src="Francesco%20Visco/Foto.jpg" height="200"/> | Francesco Visco | Game Design | 4 | [github.com/FrancescoVisco](https://github.com/FrancescoVisco)<br>[francescovisco.github.io](https://francescovisco.github.io/)
 |<img src="Tommaso%20Cattani/TommasoCattani.jpg" height="200"/> | Tommaso Cattani | Game Design | 1 | [github.com/swingecko](https://github.com/swingecko)<br>[tommasocattani.github.io](https://tommasocattani.github.io/)
+|<img src="Alessandro%20Picchi/AlessandroPicchi.jpg" height="200"/> | Alessandro Picchi | Game Design | 2 | [github.com/PicchiAlessandro](https://github.com/PicchiAlessandro)<br>[picchialessandro.github.io](https://picchialessandro.github.io/)
 
