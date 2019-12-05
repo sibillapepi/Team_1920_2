@@ -1,3 +1,3 @@
 Andrea Concetti
 Game Design 2
-![](AlessandroPicchi.jpg)
+![](Andrea Concetti.jpg)
