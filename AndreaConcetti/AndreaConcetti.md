@@ -2,4 +2,4 @@
 
 Game Design 2
 
-![](Andrea Concetti.jpg)
+![](AndreaConcetti.jpg)
